@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author: lxx
 # @Create_time: 2020/11/24
-# @File: pdf_save_as_jpg.py
+# @File: pdf2image.py
 
 import fitz
 from PyPDF2 import PdfFileReader,PdfFileWriter
